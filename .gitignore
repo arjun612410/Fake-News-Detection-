@@ -1,0 +1,5 @@
+venv
+.env
+notebook/WELFake_Dataset.csv
+__pycache__/
+*.pyc
