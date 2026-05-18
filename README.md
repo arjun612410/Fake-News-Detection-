@@ -34,7 +34,7 @@ The project uses:
 - Accuracy Score: 89.4%
 
 ## Dataset
-Dataset Link: https://www.kaggle.com/datasets/studymart/welfake-dataset-for-fake-news?
+Dataset Link: https://www.kaggle.com/datasets/studymart/welfake-dataset-for-fake-news
 
 ## Technologies Used
 - Python
